@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 1,
+        "name": "Jerry Dinh",
+        "salary": 50000,
+        "department": "Facilities Management"
+    },
+    {
+        "employeeID": 2,
+        "name": "Dennis Chung",
+        "salary": 70000,
+        "department": "Software Development"
+    },
+    {
+        "employeeID": 3,
+        "name": "Melvin Brown",
+        "salary": 65000,
+        "department": "IT Support"
+    },
+    {
+        "employeeID": 4,
+        "name": "Jesse Martinez",
+        "salary": 72000,
+        "department": "Human Resources"
+    },
+    {
+        "employeeID": 5,
+        "name": "Erick Hsu",
+        "salary": 68000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 6,
+        "name": "Dwayne Johnson",
+        "salary": 75000,
+        "department": "Product Management"
+    },
+    {
+        "employeeID": 7,
+        "name": "John Cena",
+        "salary": 71000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 8,
+        "name": "Maris Marhelis",
+        "salary": 69000,
+        "department": "Sales"
+    },
+    {
+        "employeeID": 9,
+        "name": "Vinsmoke Benji",
+        "salary": 60000,
+        "department": "Customer Service"
+    },
+    {
+        "employeeID": 10,
+        "name": "Oscar Silva",
+        "salary": 64000,
+        "department": "Research and Development"
+    }
+]
